@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Anna Mather",
+    "label": "Data Engineer",
+    "image": "",
+    "email": "annakmather@gmail.com",
+    "phone": "206-370-4002",
+    "url": "https://annakmather.github.io/",
+    "summary": "A Chicago based data scientist, data engineer, and passionate cyclist",
+    "location": {
+      "city": "Chicago",
+      "countryCode": "US",
+      "region": "Illinois"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/annakmather"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SRAM",
+      "position": "Data Engineer",
+      "startDate": "2023-04",
+      "summary": "Data and Analytics Engineer on the cloud team. Built and maintained dbt based data warehouse used for company wide product and sales insights",
+      "highlights": [
+        "Data "
+      ]
+    },
+    {
+      "name": "Civis Analytics",
+      "position": "Applied Data Scientist",
+      "startDate": "2018-07",
+      "endDate": "2022-11",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Data "
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The University of Chicago",
+      "area": "Economics, Statistics",
+      "studyType": "BA",
+      "startDate": "2012",
+      "endDate": "2016",
+      "score": "",
+      "courses": [
+      ]
+    }  
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    },
+    {
+        "language": "French",
+        "fluency": "Basic"
+        }
+  ],
+  "interests": ["Off Road Cycling"],
+  "references": ["Test"],
+  "projects": []
+}
