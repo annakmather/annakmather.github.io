@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://annakmather.github.io/sitemap.xml
